@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Express JS",
+        "description": "In this full Express.js course, you will learn how to develop a web app from scratch using Node.js, Express.js, PostgreSQL, and Bootstrap. The web app is a full CRUD application that is used for collecting sales leads. This course is the perfect way to become familiar with Express.js and how to use it with Node.js. Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. This course is the perfect way to become familiar with Express.js and how to use it with Node.js. Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+        "image": "https://cdn-media-1.freecodecamp.org/ghost/2019/02/nodeexpress.png",
+        "rating": 4.5,
+        "duration": "6h30min",
+        "instructor": {
+            "name": "Beau Carnes",
+            "date": "12/02/2019",
+            "image": "https://www.freecodecamp.org/news/content/images/2021/05/beau-carnes-gravatar.jpeg"
+        },
+        "is_highlighted": false
+    },
+    {
+        "id": 2,
+        "title": "Redux Toolkit",
+        "description": "Redux is a popular open-source JavaScript library for managing and centralizing application state. It is commonly used with React. In this course you will learn how to use Redux with ReduxToolkit Library to create an application involving HTTP requests. Here are the topics covered in this course is Redux Toolkit, Basic Terminologies, Counter App with react-redux, Shopping Cart Project - Auth Slice State, Using Redux Thunk Pattern, Sending GET HTTP request with Redux",
+        "image": "https://cloudsek.com/wp-content/uploads/2021/02/Reduximg.jpg",
+        "rating": 4.5,
+        "duration": "2h45min",
+        "instructor": {
+            "name": "Chris Blakely",
+            "date": "12/04/2021",
+            "image": "https://www.freecodecamp.org/news/content/images/2019/08/20180818_160733-copy.jpg"
+        },
+        "is_highlighted": true
+    },
+    {
+        "id": 3,
+        "title": "React JS for Begginers",
+        "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. In this course, you will learn React.js from the ground up starting with the fundamentals all the way to more intermediate and advanced topics. You will learn by building a real app. You will learn React, JSX, React Router, Props, State, Context API, Hooks, Netlify Deploy, Firebase Authentication etc.",
+        "image": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/07/reactcourse.png",
+        "rating": 4.5,
+        "duration": "5h20min",
+        "instructor": {
+            "name": "Reed Barger",
+            "date": "06/07/2021",
+            "image": "https://www.freecodecamp.org/news/content/images/2021/05/reed-barger-gravatar.jpeg"
+        },
+        "is_highlighted": false
+    },
+    {
+        "id": 4,
+        "title": "Django",
+        "description": "In this intermediate Python Django tutorial from JustDjango, you will learn to create a multiple-user system using React and the Django Rest Framework. The tutorial shows how to create a learning management system similar to Moodle or Blackboard. Users with the role of 'teacher' can create assignments. Users with the role of 'student' can complete the assignments and view their results. The Django REST framework a powerful and flexible toolkit for building Web APIs. Using this framework on the backend and React on the front end is a powerful combination.",
+        "image": "https://cdn-media-1.freecodecamp.org/ghost/2019/04/djangolms2.png",
+        "rating": 4.5,
+        "duration": "3h10min",
+        "instructor": {
+            "name": "Michael Xavier",
+            "date": "18/09/2018",
+            "image": "https://www.freecodecamp.org/news/content/images/2020/02/michael.jpeg"
+        },
+        "is_highlighted": true
+    },
+    {
+        "id": 5,
+        "title": "AWS Serverless API",
+        "description": "Creating a serverless API can often be a better choice than coding a backend in Node.js, Laravel, Spring Boot, or some other backend framework. You will earn how to create a a complete AWS serverless stack using the Go programming language. This course covers both coding and deploying a simple serverless stack using API Gateway, Lambda, and DynamoDB. Sections in this course are Project Setup, Main File, Rest of the Code, Rest of the Code, Deploying. The Go programming language can be used to deploy serverless stacks to AWS in this course. This is a complete serverless stack.",
+        "image": "https://www.freecodecamp.org/news/content/images/size/w2000/2022/02/maxresdefault.jpeg",
+        "rating": 4.5,
+        "duration": "2h30min",
+        "instructor": {
+            "name": "Piotr Wolak",
+            "date": "07/04/2022",
+            "image": "https://www.freecodecamp.org/news/content/images/2021/05/piotr-wolak-gravatar.jpeg"
+        },
+        "is_highlighted": true
+    },
+    {
+        "id": 6,
+        "title": "Angular JS",
+        "description": "Angular is a popular TypeScript-based open-source web application framework created by Google. In this course you will first you will learn the basics of TypeScript. Then you will learn about important Angular concepts such as binding, dependency injection, forms, routing, and more. We will cover Introduction to Angular, Introduction to Typescript, SPA and Local Setup. Angular structural directives are directives that change the structure of the DOM. They can add, remove, or replace elements. Structural directives have a * in front of their names. To use structural directives, you add an element with the directive in your HTML template. The element will then be added, removed, or replaced based on the condition or expression you set in the directive.",
+        "image": "https://www.freecodecamp.org/news/content/images/size/w2000/2022/09/angular.png",
+        "rating": 4.5,
+        "duration": "4h15min",
+        "instructor": {
+            "name": "Marco Venturi",
+            "date": "18/08/2022",
+            "image": "https://www.freecodecamp.org/news/content/images/2022/02/io.jpeg"
+        },
+        "is_highlighted": false
+    }
+]

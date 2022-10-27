@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "questions": "Is this site secure ?",
+        "ans": "Yes, all your information is secured here. We used firebase authentication by google to make it more sucure."
+    },
+    {
+        "id": 2,
+        "questions": "How highlighted courses are selected ?",
+        "ans": "Highlighted courses are selected based on user purchase. Top three purchased courses are shown in highlighted tabs."
+    },
+    {
+        "id": 3,
+        "questions": "How to purchase course ?",
+        "ans": "Easy ! First, Click on your favourite course. It will redirect you to course details page. Then you click premium access button. You have to be logged in to get to checkout section. Then you just click the checkout button."
+    }
+]
